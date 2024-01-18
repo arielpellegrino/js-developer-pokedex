@@ -138,14 +138,14 @@
 
 .pagination button {
     padding: .25rem .5rem;
-    height: 3rem;
+    height: 2rem;
     width: 4rem;
     margin: .25rem 0;
     font-size: .625rem;
     color: #fff;
     background-color: #6c79db;
     border: none;
-    border-radius: 1rem;
+    border-radius: 0.5rem;
 }
 
 @media screen and (min-width: 380px) {
